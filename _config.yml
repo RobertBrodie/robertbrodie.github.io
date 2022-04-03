@@ -138,6 +138,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -271,7 +273,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      show_date: true
   - scope:
       path: ""
       type: pages
@@ -281,5 +283,5 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      show_date: true
 
