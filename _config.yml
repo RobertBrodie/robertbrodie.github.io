@@ -15,11 +15,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Rob Brodie's Blog"
+title                    : "Notes for a goldfish"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Because Google will only get you so far!"
 name                     : "Rob Brodie"
-description              : "Rob Brodie's Blog"
+description              : "A place for my labs, notes, snippets and ramblings about security"
 url                      : "https://robertbrodie.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
