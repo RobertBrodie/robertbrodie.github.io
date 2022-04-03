@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Rob Brodie"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A place for my security research, notes and labs used in training."
+  bio              : "A place for my labs, notes, snippets and ramblings about security."
   location         : "United Kingdom"
   email            :
   links:
